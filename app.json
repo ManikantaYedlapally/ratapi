@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "RatAppMobile",
+    "slug": "RatAppMobile",
+    "version": "1.0.0",
+    "scheme": "rat",
+    "orientation": "portrait",
+    "icon": "./assets/ratlogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/ratlogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ratlogo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.manikanta8187.RatAppMobile"
+     
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "dd7157dd-88d8-4c78-a378-cb106c7d0206"
+      }
+    }
+  }
+}

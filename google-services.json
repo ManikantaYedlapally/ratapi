@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408128315059",
+    "project_id": "otpratapp",
+    "storage_bucket": "otpratapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408128315059:android:0208f018c1aaf72d829ac6",
+        "android_client_info": {
+          "package_name": "com.manikanta8187.RatAppMobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx0f_7e65phg1hwWDAfBVAfaKyPtYiLYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
